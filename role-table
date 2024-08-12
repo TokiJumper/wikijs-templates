@@ -140,7 +140,7 @@
           <strong>Синтетики</strong>
         </div>
         <div class="roles" id="syn">
-          <a href="/roles/cyborg">Киборг</a>
+          <a href="/roles/cyborgs">Киборг</a>
           <a href="/roles/personalai">пИИ</a>
           <!--<a href="/roles/maintenancedrone">Дрон техобслуживания</a>-->
         </div>

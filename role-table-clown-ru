@@ -1,0 +1,179 @@
+<div class="roles-table">
+    <div class="title">
+      <img src="/main_page_icons/ss14_mini_logo.png" alt="Профессии экипажа">
+      <a href="/roles"><strong>Список хонка</strong></a>
+    </div>
+    <div class="wrapper">
+      <div class="dep-wrapper" style="background:rgb(25, 100, 165, 0.2);">
+        <div class="dep-title" style="background:rgb(25, 100, 165, 0.7);">
+          <strong>Кокмандование</strong>
+        </div>
+        <div class="roles" id="com">
+          <a href="/roles/captain">Гондон-у-Руля</a>
+          <a href="/roles/headofpersonnel">Мистер дай доступ</a>
+          <a href="/roles/headofsecurity">ХуЕсОс</a>
+          <a href="/roles/inspector">Секспектор</a>
+          <a href="/roles/chiefengineer">Вождь Племени Жёлтых Перчаток</a>
+          <a href="/roles/researchdirector">Верховный задрот</a>
+          <a href="/roles/chiefmedicalofficer">ЧМО</a>
+          <a href="/roles/quartermaster">Пастух</a>
+          <a href="/roles/maid">Прислуга</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(20, 130, 45, 0.2);">
+        <div class="dep-title" style="background:rgb(20, 130, 45, 0.7);">
+          <strong>VIP зрители</strong>
+        </div>
+        <div class="roles" id="cencom">
+          <a href="/roles/representativeofcc">Корзина для бумаг</a>
+          <a href="/roles/emergencyresponseteam">Отряд медленного реагирования</a>
+          <a href="/roles/deathsquad">Пенсионеры</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(155, 0, 0, 0.2);">
+        <div class="dep-title" style="background:rgb(155, 0, 0, 0.7);">
+          <strong>Щиткуры чертовы</strong>
+        </div>
+        <div class="roles" id="sec">
+          <a href="/roles/headofsecurity">Хуесос</a>
+          <a href="/roles/warden">Начальник</a>
+          <a href="/roles/veteran">Вытеран</a>
+          <a href="/roles/prison-guard">Начальник2</a>
+          <a href="/roles/officer">Красножопый классический</a>
+          <a href="/roles/detective">Сыщик маминкин</a>
+          <a href="/roles/cadet">Мишень для пранков</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(255, 140, 40, 0.2);">
+        <div class="dep-title" style="background:rgb(255, 140, 40, 0.7);">
+          <strong>Племя Жёлтых Перчаток</strong>
+        </div>
+        <div class="roles" id="eng">
+          <a href="/roles/chiefengineer">Раздатчик желтых перчаток</a>
+          <a href="/roles/brigadier">Хз кто это</a>
+          <a href="/roles/engineer">Носитель желтых перчаток</a>
+          <a href="/roles/atmospherictechnician">Ебанат с топором</a>
+          <a href="/roles/technicalassistant">Лох в племени желтых перчаток</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(205, 95, 190, 0.2);">
+        <div class="dep-title" style="background:rgb(205, 95, 190, 0.8);">
+          <strong>Задроты</strong>
+        </div>
+        <div class="roles" id="rnd">
+          <a href="/roles/researchdirector">Верховный задрот</a>
+          <a href="/roles/leadresearcher">Ведущий зануда</a>
+          <a href="/roles/mantis">Псионический очкошник</a>
+          <a href="/roles/scientist">Задрот</a>
+          <a href="/roles/researchassistant">Младший зануда</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(90, 150, 190, 0.2);">
+        <div class="dep-title" style="background:rgb(90, 150, 190, 0.8);;">
+          <strong>Отдел смерти</strong>
+        </div>
+        <div class="roles" id="med">
+          <a href="/roles/chiefmedicalofficer">ЧМО</a>
+          <a href="/roles/medicalofficer">Бесполезный хуй</a>
+          <a href="/roles/paramedic">Таксибот</a>
+          <a href="/roles/chemist">Варщик мета</a>
+          <a href="/roles/doctor">Источник смазки</a>
+          <a href="/roles/psychologist">ОСТАВЬ МЕНЯ В ПОКОЕ</a>
+          <a href="/roles/intern">ЧЕМ ТЫ МЕНЯ НАПИЧКАЛ</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(180, 130, 65, 0.2);">
+        <div class="dep-title" style="background:rgb(180, 130, 65, 0.7);">
+          <strong>Раздача пушек</strong>
+        </div>
+        <div class="roles" id="sup">
+          <a href="/roles/quartermaster">Пастух</a>
+         <!-- <a href="/roles/hunter">Министерство выдачи оружия</a>-->
+          <a href="/roles/utilizer">Носитель бананиума</a>
+          <a href="/roles/loader">Министерство выдачи оружия</a>
+          <a href="/roles/courier">Бесполезный</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(110, 10, 0, 0.2);">
+        <div class="dep-title" style="background:rgb(110, 10, 0, 0.7);">
+          <strong>(Без)Закон</strong>
+        </div>
+        <div class="roles">
+          <a href="/roles/inspector">Секспектор</a>
+          <a href="/roles/lawyer">Корзина для жалоб</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(95, 175, 5, 0.2);">
+        <div class="dep-title" style="background:rgb(95, 175, 5, 0.8);">
+          <strong>Братва</strong>
+        </div>
+        <div class="roles" id="ser">
+          <a href="/roles/headofpersonnel">Мистер дай мне доступ</a>
+          <a href="/roles/assistant">Подельник</a>
+          <a href="/roles/serviceworker">Мальчик на побегушках</a>
+          <a href="/roles/botanist">Дает бананы</a>
+          <a href="/roles/chef">Нож</a>
+          <a href="/roles/barman">Ружье</a>
+          <a href="/roles/janitor">"ВЕРНИ КОРЗИНУ!"</a>
+          <a href="/roles/clown">Его величество клоун</a>
+          <a href="/roles/mime">Лучший Враг или Заклятый Друг</a>
+          <a href="/roles/zootechnik">Зоофил</a>
+          <a href="/roles/boxer">Абьюзер</a>
+          <a href="/roles/reporter">Сними ка это</a>
+          <a href="/roles/priest">Служитель Хонкоматери</a>
+          <a href="/roles/librarian">Книжный червь</a>
+          <a href="/roles/musician">Подпевала</a>
+          <a href="/roles/bomzh">Зачем на научной станции бомж?</a>
+          <a href="/roles/prisoner">Пример</a>
+          <a href="/roles/martial-artist">Мастер иди нахуй, я не хочу чтобы ты меня избивал</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(125, 130, 125, 0.2);">
+        <div class="dep-title" style="background:rgb(125, 130, 125, 0.8);">
+          <strong>Шизофрения</strong>
+        </div>
+        <div class="roles" id="ghost">
+          <a href="/roles/ghost">Зрители</a>
+          <a href="/roles/punpun">Бесплатная карта бармена</a>
+          <a href="/roles/mouse">Перекус</a>
+          <a href="/roles/hamlet">Пушечное мясо</a>
+          <a href="/roles/remilia">Кусака</a>
+          <a href="/roles/gnome">Карлик</a>
+          <a href="/roles/gondola">Гондон</a>
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(112, 144, 138, 0.2);">
+        <div class="dep-title" style="background:rgb(112, 144, 138, 0.8);">
+          <strong>Рабы</strong>
+        </div>
+        <div class="roles" id="syn">
+          <a href="/roles/cyborgs">Раб</a>
+          <a href="/roles/personalai">Плеер с JoJo песнями</a>
+          <!--<a href="/roles/maintenancedrone">Дрон техобслуживания</a>-->
+        </div>
+      </div>
+      <div class="dep-wrapper" style="background:rgb(80, 20, 10, 0.2);">
+        <div class="dep-title" style="background:rgb(80, 20, 10, 0.7);">
+          <strong>Критики</strong>
+        </div>
+        <div class="roles" id="ant">
+          <a href="/roles/traitor">Подскальзывается</a>
+          <a href="/roles/nuclearoperative">Тоже подскальзывается</a>
+          <a href="/roles/corticalBorer">Космическая аскарида</a>
+          <a href="/roles/thief">Конкурент за карту капитана</a>
+          <a href="/roles/cultist">Эмо</a>
+          <a href="/roles/revolution">Товарищ</a>
+          <a href="/roles/patientzero">Зеленый</a>
+          <a href="/roles/spaceninja">Не подскальзывается</a>
+          <a href="/roles/pirate">Пират</a>
+          <a href="/roles/revenant">Сонный паралич</a>
+          <a href="/roles/ratking">Король</a>
+          <a href="/roles/spacedragon">Большой унатх</a>
+          <a href="/roles/guardian">Лучший Друг</a>
+          <a href="/roles/genestealer">Генокрад</a>
+          <a href="/roles/terminator">Консервная банка</a>
+          <a href="/roles/wizard">Маг</a>
+          <a href="/roles/paradox-anomaly">Подражатель</a>
+        </div>
+      </div>
+    </div>

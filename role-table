@@ -1,7 +1,7 @@
 <div class="roles-table">
     <div class="title">
-      <img src="/role/ss14 mini logo.png" alt="Профессии экипажа">
-      <a href="https://js.ss14.su/roles"><strong>Профессии экипажа</strong></a>
+      <img src="/main_page_icons/ss14_mini_logo.png" alt="Профессии экипажа">
+      <a href="https://wiki.ss14.su/roles"><strong>Профессии экипажа</strong></a>
     </div>
     <div class="wrapper">
       <div class="dep-wrapper" style="background:rgb(25, 100, 165, 0.2);">
@@ -17,6 +17,7 @@
           <a href="/roles/researchdirector">Научный Руководитель</a>
           <a href="/roles/chiefmedicalofficer">Старший Медицинский Офицер</a>
           <a href="/roles/quartermaster">Квартирмейстер</a>
+          <a href="/roles/maid">Прислуга</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(20, 130, 45, 0.2);">
@@ -37,6 +38,7 @@
           <a href="/roles/headofsecurity">Глава Службы Безопасности</a>
           <a href="/roles/warden">Смотритель</a>
           <a href="/roles/veteran">Ветеран</a>
+          <a href="/roles/prison-guard">Тюремный надзиратель</a>
           <a href="/roles/officer">Офицер</a>
           <a href="/roles/detective">Детектив</a>
           <a href="/roles/cadet">Кадет</a>
@@ -61,6 +63,7 @@
         <div class="roles" id="rnd">
           <a href="/roles/researchdirector">Научный Руководитель</a>
           <a href="/roles/leadresearcher">Ведущий исследователь</a>
+          <a href="/roles/mantis">Псионический Мантис</a>
           <a href="/roles/scientist">Учёный</a>
           <a href="/roles/researchassistant">Научный ассистент</a>
         </div>
@@ -119,6 +122,9 @@
           <a href="/roles/priest">Священник</a>
           <a href="/roles/librarian">Библиотекарь</a>
           <a href="/roles/musician">Музыкант</a>
+          <a href="/roles/bomzh">Космический бомж</a>
+          <a href="/roles/prisoner">Заключенный</a>
+          <a href="/roles/martial-artist">Мастер боевых искусств</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(125, 130, 125, 0.2);">
@@ -166,7 +172,7 @@
           <a href="/roles/genestealer">Генокрад</a>
           <a href="/roles/terminator">Терминатор</a>
           <a href="/roles/wizard">Маг</a>
+          <a href="/roles/paradox-anomaly">Парадоксальная аномалия</a>
         </div>
       </div>
     </div>
-</div>

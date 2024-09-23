@@ -91,6 +91,7 @@
          <!-- <a href="/roles/hunter">Охотник</a>-->
           <a href="/roles/utilizer">Утилизатор</a>
           <a href="/roles/loader">Грузчик</a>
+          <a href="/roles/courier">Курьер</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(110, 10, 0, 0.2);">

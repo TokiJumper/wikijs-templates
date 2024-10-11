@@ -16,6 +16,7 @@
           <a href="/roles/researchdirector">Research Director</a>
           <a href="/roles/chiefmedicalofficer">Chief Medical Officer</a>
           <a href="/roles/quartermaster">Quartermaster</a>
+          <a href="/roles/chief_justice">Chief Justice</a>
           <a href="/roles/maid">Maid</a>
         </div>
       </div>
@@ -93,7 +94,10 @@
           <strong>Justice</strong>
         </div>
         <div class="roles">
+          <a href="/roles/chief_justice">Chief Justice</a>
           <a href="/roles/lawyer">Lawyer</a>
+          <a href="/roles/prosecutor">Prosecutor</a>
+          <a href="/roles/clerk">Clerk</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(95, 175, 5, 0.2);">

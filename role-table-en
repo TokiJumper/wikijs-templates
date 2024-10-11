@@ -12,7 +12,6 @@
           <a href="/roles/captain">Captain</a>
           <a href="/roles/headofpersonnel">Head of Personnel</a>
           <a href="/roles/headofsecurity">Head of Security</a>
-          <a href="/roles/inspector">Inspector</a>
           <a href="/roles/chiefengineer">Chief Engineer</a>
           <a href="/roles/researchdirector">Research Director</a>
           <a href="/roles/chiefmedicalofficer">Chief Medical Officer</a>
@@ -27,7 +26,6 @@
         <div class="roles" id="cencom">
           <a href="/roles/representativeofcc">Central Command Representative</a>
           <a href="/roles/emergencyresponseteam">Emergency Response Team</a>
-          <a href="/roles/deathsquad">Death Squad</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(155, 0, 0, 0.2);">
@@ -37,7 +35,6 @@
         <div class="roles" id="sec">
           <a href="/roles/headofsecurity">Head of Security</a>
           <a href="/roles/warden">Warden</a>
-          <a href="/roles/veteran">Veteran</a>
           <a href="/roles/prison-guard">Prison Guard</a>
           <a href="/roles/officer">Officer</a>
           <a href="/roles/detective">Detective</a>
@@ -50,7 +47,6 @@
         </div>
         <div class="roles" id="eng">
           <a href="/roles/chiefengineer">Chief Engineer</a>
-          <a href="/roles/brigadier">Foreman</a>
           <a href="/roles/engineer">Engineer</a>
           <a href="/roles/atmospherictechnician">Atmospheric Technician</a>
           <a href="/roles/technicalassistant">Technical Assistant</a>
@@ -62,7 +58,6 @@
         </div>
         <div class="roles" id="rnd">
           <a href="/roles/researchdirector">Research Director</a>
-          <a href="/roles/leadresearcher">Lead Researcher</a>
           <a href="/roles/mantis">Psionic Mantis</a>
           <a href="/roles/scientist">Scientist</a>
           <a href="/roles/researchassistant">Research Assistant</a>
@@ -74,7 +69,6 @@
         </div>
         <div class="roles" id="med">
           <a href="/roles/chiefmedicalofficer">Chief Medical Officer</a>
-          <a href="/roles/medicalofficer">Medical Officer</a>
           <a href="/roles/paramedic">Paramedic</a>
           <a href="/roles/chemist">Chemist</a>
           <a href="/roles/doctor">Doctor</a>
@@ -99,7 +93,6 @@
           <strong>Justice</strong>
         </div>
         <div class="roles">
-          <a href="/roles/inspector">Inspector</a>
           <a href="/roles/lawyer">Lawyer</a>
         </div>
       </div>
@@ -138,8 +131,8 @@
           <a href="/roles/mouse">Mouse</a>
           <a href="/roles/hamlet">Hamlet</a>
           <a href="/roles/remilia">Remilia</a>
-          <a href="/roles/gnome">Gnome</a>
-          <a href="/roles/gondola">Gondola</a>
+          <a href="/roles//roles/baby-slime">Smiley</a>
+          <a href="/roles/laika">Laika</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(112, 144, 138, 0.2);">

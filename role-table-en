@@ -1,7 +1,7 @@
 <div class="roles-table">
     <div class="title">
       <img src="/main_page_icons/ss14_mini_logo.png" alt="Crew Professions">
-      <a href="/en/roles"><strong>Crew Professions</strong></a>
+      <a href="https://wiki.wwdp.ee/en/roles"><strong>Crew Professions</strong></a>
     </div>
     <div class="wrapper">
       <div class="dep-wrapper" style="background:rgb(25, 100, 165, 0.2);">
@@ -9,15 +9,15 @@
           <strong>Command</strong>
         </div>
         <div class="roles" id="com">
-          <a href="/roles/captain">Captain</a>
-          <a href="/roles/headofpersonnel">Head of Personnel</a>
-          <a href="/roles/headofsecurity">Head of Security</a>
-          <a href="/roles/chiefengineer">Chief Engineer</a>
-          <a href="/roles/researchdirector">Research Director</a>
-          <a href="/roles/chiefmedicalofficer">Chief Medical Officer</a>
-          <a href="/roles/quartermaster">Quartermaster</a>
-          <a href="/roles/chief_justice">Chief Justice</a>
-          <a href="/roles/maid">Maid</a>
+          <a href="https://wiki.wwdp.ee/en/roles/captain">Captain</a>
+          <a href="https://wiki.wwdp.ee/en/roles/headofpersonnel">Head of Personnel</a>
+          <a href="https://wiki.wwdp.ee/en/roles/headofsecurity">Head of Security</a>
+          <a href="https://wiki.wwdp.ee/en/roles/chiefengineer">Chief Engineer</a>
+          <a href="https://wiki.wwdp.ee/en/roles/researchdirector">Research Director</a>
+          <a href="https://wiki.wwdp.ee/en/roles/chiefmedicalofficer">Chief Medical Officer</a>
+          <a href="https://wiki.wwdp.ee/en/roles/quartermaster">Quartermaster</a>
+          <a href="https://wiki.wwdp.ee/en/roles/chief_justice">Chief Justice</a>
+          <a href="https://wiki.wwdp.ee/en/roles/maid">Maid</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(20, 130, 45, 0.2);">
@@ -25,8 +25,8 @@
           <strong>Central Command</strong>
         </div>
         <div class="roles" id="cencom">
-          <a href="/roles/representativeofcc">Central Command Representative</a>
-          <a href="/roles/emergencyresponseteam">Emergency Response Team</a>
+          <a href="https://wiki.wwdp.ee/en/roles/representativeofcc">Central Command Representative</a>
+          <a href="https://wiki.wwdp.ee/en/roles/emergencyresponseteam">Emergency Response Team</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(155, 0, 0, 0.2);">
@@ -34,12 +34,12 @@
           <strong>Security</strong>
         </div>
         <div class="roles" id="sec">
-          <a href="/roles/headofsecurity">Head of Security</a>
-          <a href="/roles/warden">Warden</a>
-          <a href="/roles/prison-guard">Prison Guard</a>
-          <a href="/roles/officer">Officer</a>
-          <a href="/roles/detective">Detective</a>
-          <a href="/roles/cadet">Cadet</a>
+          <a href="https://wiki.wwdp.ee/en/roles/headofsecurity">Head of Security</a>
+          <a href="https://wiki.wwdp.ee/en/roles/warden">Warden</a>
+          <a href="https://wiki.wwdp.ee/en/roles/prison-guard">Prison Guard</a>
+          <a href="https://wiki.wwdp.ee/en/roles/officer">Officer</a>
+          <a href="https://wiki.wwdp.ee/en/roles/detective">Detective</a>
+          <a href="https://wiki.wwdp.ee/en/roles/cadet">Cadet</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(255, 140, 40, 0.2);">
@@ -47,10 +47,10 @@
           <strong>Engineering</strong>
         </div>
         <div class="roles" id="eng">
-          <a href="/roles/chiefengineer">Chief Engineer</a>
-          <a href="/roles/engineer">Engineer</a>
-          <a href="/roles/atmospherictechnician">Atmospheric Technician</a>
-          <a href="/roles/technicalassistant">Technical Assistant</a>
+          <a href="https://wiki.wwdp.ee/en/roles/chiefengineer">Chief Engineer</a>
+          <a href="https://wiki.wwdp.ee/en/roles/engineer">Engineer</a>
+          <a href="https://wiki.wwdp.ee/en/roles/atmospherictechnician">Atmospheric Technician</a>
+          <a href="https://wiki.wwdp.ee/en/roles/technicalassistant">Technical Assistant</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(205, 95, 190, 0.2);">
@@ -58,10 +58,10 @@
           <strong>Research</strong>
         </div>
         <div class="roles" id="rnd">
-          <a href="/roles/researchdirector">Research Director</a>
-          <a href="/roles/mantis">Psionic Mantis</a>
-          <a href="/roles/scientist">Scientist</a>
-          <a href="/roles/researchassistant">Research Assistant</a>
+          <a href="https://wiki.wwdp.ee/en/roles/researchdirector">Research Director</a>
+          <a href="https://wiki.wwdp.ee/en/roles/mantis">Psionic Mantis</a>
+          <a href="https://wiki.wwdp.ee/en/roles/scientist">Scientist</a>
+          <a href="https://wiki.wwdp.ee/en/roles/researchassistant">Research Assistant</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(90, 150, 190, 0.2);">
@@ -69,12 +69,12 @@
           <strong>Medical</strong>
         </div>
         <div class="roles" id="med">
-          <a href="/roles/chiefmedicalofficer">Chief Medical Officer</a>
-          <a href="/roles/paramedic">Paramedic</a>
-          <a href="/roles/chemist">Chemist</a>
-          <a href="/roles/doctor">Doctor</a>
-          <a href="/roles/psychologist">Psychologist</a>
-          <a href="/roles/intern">Intern</a>
+          <a href="https://wiki.wwdp.ee/en/roles/chiefmedicalofficer">Chief Medical Officer</a>
+          <a href="https://wiki.wwdp.ee/en/roles/paramedic">Paramedic</a>
+          <a href="https://wiki.wwdp.ee/en/roles/chemist">Chemist</a>
+          <a href="https://wiki.wwdp.ee/en/roles/doctor">Doctor</a>
+          <a href="https://wiki.wwdp.ee/en/roles/psychologist">Psychologist</a>
+          <a href="https://wiki.wwdp.ee/en/roles/intern">Intern</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(180, 130, 65, 0.2);">
@@ -82,11 +82,11 @@
           <strong>Supply</strong>
         </div>
         <div class="roles" id="sup">
-          <a href="/roles/quartermaster">Quartermaster</a>
+          <a href="https://wiki.wwdp.ee/en/roles/quartermaster">Quartermaster</a>
          <!-- <a href="/roles/hunter">Hunter</a>-->
-          <a href="/roles/utilizer">Salvager</a>
-          <a href="/roles/loader">Cargo Technician</a>
-          <a href="/roles/courier">Courier</a>
+          <a href="https://wiki.wwdp.ee/en/roles/utilizer">Salvager</a>
+          <a href="https://wiki.wwdp.ee/en/roles/loader">Cargo Technician</a>
+          <a href="https://wiki.wwdp.ee/en/roles/courier">Courier</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(110, 10, 0, 0.2);">
@@ -94,10 +94,10 @@
           <strong>Justice</strong>
         </div>
         <div class="roles">
-          <a href="/roles/chief_justice">Chief Justice</a>
-          <a href="/roles/lawyer">Lawyer</a>
-          <a href="/roles/prosecutor">Prosecutor</a>
-          <a href="/roles/clerk">Clerk</a>
+          <a href="https://wiki.wwdp.ee/en/roles/chief_justice">Chief Justice</a>
+          <a href="https://wiki.wwdp.ee/en/roles/lawyer">Lawyer</a>
+          <a href="https://wiki.wwdp.ee/en/roles/prosecutor">Prosecutor</a>
+          <a href="https://wiki.wwdp.ee/en/roles/clerk">Clerk</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(95, 175, 5, 0.2);">
@@ -105,24 +105,24 @@
           <strong>Service</strong>
         </div>
         <div class="roles" id="ser">
-          <a href="/roles/headofpersonnel">Head of Personnel</a>
-          <a href="/roles/assistant">Assistant</a>
-          <a href="/roles/serviceworker">Service Worker</a>
-          <a href="/roles/botanist">Botanist</a>
-          <a href="/roles/chef">Chef</a>
-          <a href="/roles/barman">Bartender</a>
-          <a href="/roles/janitor">Janitor</a>
-          <a href="/roles/clown">Clown</a>
-          <a href="/roles/mime">Mime</a>
-          <a href="/roles/zootechnik">Zookeeper</a>
-          <a href="/roles/boxer">Boxer</a>
-          <a href="/roles/reporter">Reporter</a>
-          <a href="/roles/priest">Priest</a>
-          <a href="/roles/librarian">Librarian</a>
-          <a href="/roles/musician">Musician</a>
-          <a href="/roles/bomzh">Space Homeless</a>
-          <a href="/roles/prisoner">Prisoner</a>
-          <a href="/roles/martial-artist">Martial Artist</a>
+          <a href="https://wiki.wwdp.ee/en/roles/headofpersonnel">Head of Personnel</a>
+          <a href="https://wiki.wwdp.ee/en/roles/assistant">Assistant</a>
+          <a href="https://wiki.wwdp.ee/en/roles/serviceworker">Service Worker</a>
+          <a href="https://wiki.wwdp.ee/en/roles/botanist">Botanist</a>
+          <a href="https://wiki.wwdp.ee/en/roles/chef">Chef</a>
+          <a href="https://wiki.wwdp.ee/en/roles/barman">Bartender</a>
+          <a href="https://wiki.wwdp.ee/en/roles/janitor">Janitor</a>
+          <a href="https://wiki.wwdp.ee/en/roles/clown">Clown</a>
+          <a href="https://wiki.wwdp.ee/en/roles/mime">Mime</a>
+          <a href="https://wiki.wwdp.ee/en/roles/zootechnik">Zookeeper</a>
+          <a href="https://wiki.wwdp.ee/en/roles/boxer">Boxer</a>
+          <a href="https://wiki.wwdp.ee/en/roles/reporter">Reporter</a>
+          <a href="https://wiki.wwdp.ee/en/roles/priest">Priest</a>
+          <a href="https://wiki.wwdp.ee/en/roles/librarian">Librarian</a>
+          <a href="https://wiki.wwdp.ee/en/roles/musician">Musician</a>
+          <a href="https://wiki.wwdp.ee/en/roles/bomzh">Space Homeless</a>
+          <a href="https://wiki.wwdp.ee/en/roles/prisoner">Prisoner</a>
+          <a href="https://wiki.wwdp.ee/en/roles/martial-artist">Martial Artist</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(125, 130, 125, 0.2);">
@@ -130,13 +130,13 @@
           <strong>Spiritual</strong>
         </div>
         <div class="roles" id="ghost">
-          <a href="/roles/ghost">Ghost</a>
-          <a href="/roles/punpun">Pun Pun</a>
-          <a href="/roles/mouse">Mouse</a>
-          <a href="/roles/hamlet">Hamlet</a>
-          <a href="/roles/remilia">Remilia</a>
-          <a href="/roles//roles/baby-slime">Smiley</a>
-          <a href="/roles/laika">Laika</a>
+          <a href="https://wiki.wwdp.ee/en/roles/ghost">Ghost</a>
+          <a href="https://wiki.wwdp.ee/en/roles/punpun">Pun Pun</a>
+          <a href="https://wiki.wwdp.ee/en/roles/mouse">Mouse</a>
+          <a href="https://wiki.wwdp.ee/en/roles/hamlet">Hamlet</a>
+          <a href="https://wiki.wwdp.ee/en/roles/remilia">Remilia</a>
+          <a href="https://wiki.wwdp.ee/en/roles//roles/baby-slime">Smiley</a>
+          <a href="https://wiki.wwdp.ee/en/roles/laika">Laika</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(112, 144, 138, 0.2);">
@@ -144,8 +144,8 @@
           <strong>Synthetics</strong>
         </div>
         <div class="roles" id="syn">
-          <a href="/roles/cyborgs">Cyborg</a>
-          <a href="/roles/personalai">AI</a>
+          <a href="https://wiki.wwdp.ee/en/roles/cyborgs">Cyborg</a>
+          <a href="https://wiki.wwdp.ee/en/roles/personalai">AI</a>
           <!--<a href="/roles/maintenancedrone">Maintenance Drone</a>-->
         </div>
       </div>
@@ -154,24 +154,24 @@
           <strong>Antagonists</strong>
         </div>
         <div class="roles" id="ant">
-          <a href="/roles/traitor">Traitor</a>
-          <a href="/roles/nuclearoperative">Nuclear Operative</a>
-          <a href="/roles/corticalBorer">Space Ascarid</a>
-          <a href="/roles/thief">Thief</a>
-          <a href="/roles/cultist">Cultist</a>
-          <a href="/roles/revolution">Revolutionist</a>
-          <a href="/roles/patientzero">Patient Zero</a>
-          <a href="/roles/spaceninja">Space Ninja</a>
-          <a href="/roles/pirate">Pirate</a>
-          <a href="/roles/revenant">Revenant</a>
-          <a href="/roles/ratking">Rat King</a>
-          <a href="/roles/spacedragon">Space Dragon</a>
-          <a href="/roles/guardian">Guardian</a>
-          <a href="/roles/genestealer">Genestealer</a>
-          <a href="/roles/terminator">Terminator</a>
-          <a href="/roles/wizard">Wizard</a>
-          <a href="/roles/paradox-anomaly">Paradox Anomaly</a>
-          <a href="/roles/listening_post_operative">Listening Post Operative</a>
+          <a href="https://wiki.wwdp.ee/en/roles/traitor">Traitor</a>
+          <a href="https://wiki.wwdp.ee/en/roles/nuclearoperative">Nuclear Operative</a>
+          <a href="https://wiki.wwdp.ee/en/roles/corticalBorer">Space Ascarid</a>
+          <a href="https://wiki.wwdp.ee/en/roles/thief">Thief</a>
+          <a href="https://wiki.wwdp.ee/en/roles/cultist">Cultist</a>
+          <a href="https://wiki.wwdp.ee/en/roles/revolution">Revolutionist</a>
+          <a href="https://wiki.wwdp.ee/en/roles/patientzero">Patient Zero</a>
+          <a href="https://wiki.wwdp.ee/en/roles/spaceninja">Space Ninja</a>
+          <a href="https://wiki.wwdp.ee/en/roles/pirate">Pirate</a>
+          <a href="https://wiki.wwdp.ee/en/roles/revenant">Revenant</a>
+          <a href="https://wiki.wwdp.ee/en/roles/ratking">Rat King</a>
+          <a href="https://wiki.wwdp.ee/en/roles/spacedragon">Space Dragon</a>
+          <a href="https://wiki.wwdp.ee/en/roles/guardian">Guardian</a>
+          <a href="https://wiki.wwdp.ee/en/roles/genestealer">Genestealer</a>
+          <a href="https://wiki.wwdp.ee/en/roles/terminator">Terminator</a>
+          <a href="https://wiki.wwdp.ee/en/roles/wizard">Wizard</a>
+          <a href="https://wiki.wwdp.ee/en/roles/paradox-anomaly">Paradox Anomaly</a>
+          <a href="https://wiki.wwdp.ee/en/roles/listening_post_operative">Listening Post Operative</a>
         </div>
       </div>
     </div>

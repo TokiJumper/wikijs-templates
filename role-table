@@ -37,6 +37,7 @@
         <div class="roles" id="sec">
           <a href="/roles/headofsecurity">Глава Службы Безопасности</a>
           <a href="/roles/warden">Смотритель</a>
+          <a href="/roles/brigmedic">Бригмедик</a>
           <a href="/roles/prison-guard">Тюремный надзиратель</a>
           <a href="/roles/officer">Офицер</a>
           <a href="/roles/detective">Детектив</a>

@@ -37,7 +37,6 @@
         <div class="roles" id="sec">
           <a href="/roles/headofsecurity">Хуесос</a>
           <a href="/roles/warden">Начальник</a>
-          <a href="/roles/veteran">Вытеран</a>
           <a href="/roles/prison-guard">Начальник2</a>
           <a href="/roles/officer">Красножопый классический</a>
           <a href="/roles/detective">Сыщик маминкин</a>
@@ -50,7 +49,6 @@
         </div>
         <div class="roles" id="eng">
           <a href="/roles/chiefengineer">Раздатчик желтых перчаток</a>
-          <a href="/roles/brigadier">Хз кто это</a>
           <a href="/roles/engineer">Носитель желтых перчаток</a>
           <a href="/roles/atmospherictechnician">Ебанат с топором</a>
           <a href="/roles/technicalassistant">Лох в племени желтых перчаток</a>
@@ -62,8 +60,7 @@
         </div>
         <div class="roles" id="rnd">
           <a href="/roles/researchdirector">Верховный задрот</a>
-          <a href="/roles/leadresearcher">Ведущий зануда</a>
-          <a href="/roles/mantis">Псионический очкошник</a>
+          <a href="/roles/mantis">Машонкис</a>
           <a href="/roles/scientist">Задрот</a>
           <a href="/roles/researchassistant">Младший зануда</a>
         </div>
@@ -74,7 +71,6 @@
         </div>
         <div class="roles" id="med">
           <a href="/roles/chiefmedicalofficer">ЧМО</a>
-          <a href="/roles/medicalofficer">Бесполезный хуй</a>
           <a href="/roles/paramedic">Таксибот</a>
           <a href="/roles/chemist">Источник смазки</a>
           <a href="/roles/doctor">Коновал</a>
@@ -99,8 +95,10 @@
           <strong>(Без)Закон</strong>
         </div>
         <div class="roles">
-          <a href="/roles/inspector">Секспектор</a>
-          <a href="/roles/lawyer">Корзина для жалоб</a>
+          <a href="/roles/chief_justice">Он существует?</a>
+          <a href="/roles/prosecutor">Корзина для жалоб</a>
+          <a href="/roles/lawyer">Корзина для жалоб, но хуже</a>
+          <a href="/roles/clerk">Педофил</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(95, 175, 5, 0.2);">
@@ -125,7 +123,7 @@
           <a href="/roles/musician">Подпевала</a>
           <a href="/roles/bomzh">Зачем на научной станции бомж?</a>
           <a href="/roles/prisoner">Пример</a>
-          <a href="/roles/martial-artist">Мастер иди нахуй, я не хочу чтобы ты меня избивал</a>
+          <a href="/roles/martial-artist">Мастер Иди Нахуй, я не хочу чтобы ты меня избивал</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(125, 130, 125, 0.2);">
@@ -140,6 +138,7 @@
           <a href="/roles/remilia">Кусака</a>
           <a href="/roles/gnome">Карлик</a>
           <a href="/roles/gondola">Гондон</a>
+          <a href="/roles/laika">Ебака</a>
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(112, 144, 138, 0.2);">
@@ -174,6 +173,7 @@
           <a href="/roles/terminator">Консервная банка</a>
           <a href="/roles/wizard">Маг</a>
           <a href="/roles/paradox-anomaly">Подражатель</a>
+        <a href="/roles/listening_post_operative">Алло?</a>
         </div>
       </div>
     </div>

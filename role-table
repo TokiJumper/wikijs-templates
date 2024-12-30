@@ -161,20 +161,20 @@
         <div class="roles" id="ant">
           <a href="/roles/traitor">Предатель</a>
           <a href="/roles/nuclearoperative">Ядерный оперативник</a>
-          <a href="/roles/corticalBorer">Космическая аскарида</a>
+          <!--<a href="/roles/corticalBorer">Космическая аскарида</a>-->
           <a href="/roles/thief">Вор</a>
           <a href="/roles/cultist">Культист</a>
           <a href="/roles/revolution">Революционер</a>
           <a href="/roles/patientzero">Нулевой пациент</a>
-          <a href="/roles/spaceninja">Мозговой червь</a>
+          <a href="/roles/spaceninja">Космический ниндзя</a>
           <a href="/roles/pirate">Пират</a>
           <a href="/roles/revenant">Ревенант</a>
           <a href="/roles/ratking">Крысиный король</a>
           <a href="/roles/spacedragon">Космический дракон</a>
           <a href="/roles/guardian">Хранитель</a>
-          <a href="/roles/genestealer">Генокрад</a>
+          <!--<a href="/roles/genestealer">Генокрад</a>-->
           <a href="/roles/terminator">Терминатор</a>
-          <a href="/roles/wizard">Маг</a>
+          <!--<a href="/roles/wizard">Маг</a>-->
           <a href="/roles/paradox-anomaly">Парадоксальная аномалия</a>
           <a href="/roles/listening_post_operative">Радист Наблюдательного Поста</a>
           <a href="/roles/headcrabs">Хедкрабы</a>

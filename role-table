@@ -151,6 +151,7 @@
         <div class="roles" id="syn">
           <a href="/roles/cyborgs">Киборг</a>
           <a href="/roles/personalai">пИИ</a>
+          <a href="/roles/ai">Искусственный Интеллект</a>
           <!--<a href="/roles/maintenancedrone">Дрон техобслуживания</a>-->
         </div>
       </div>

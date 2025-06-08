@@ -12,7 +12,7 @@
           <a href="/roles/captain">Гондон-у-Руля</a>
           <a href="/roles/headofpersonnel">Мистер дай доступ</a>
           <a href="/roles/headofsecurity">ХуЕсОс</a>
-          <a href="/roles/chief_justice">Он существует?</a>
+          <!--<a href="/roles/chief_justice">Он существует?</a>-->
           <a href="/roles/chiefengineer">Вождь Племени Жёлтых Перчаток</a>
           <a href="/roles/researchdirector">Верховный задрот</a>
           <a href="/roles/chiefmedicalofficer">ЧМО</a>
@@ -37,7 +37,7 @@
         <div class="roles" id="sec">
           <a href="/roles/headofsecurity">Хуесос</a>
           <a href="/roles/warden">Начальник</a>
-          <a href="/roles/prison-guard">Начальник2</a>
+          <!--<a href="/roles/prison-guard">Начальник2</a>-->
           <a href="/roles/officer">Красножопый классический</a>
           <a href="/roles/detective">Сыщик маминкин</a>
           <a href="/roles/cadet">Мишень для пранков</a>
@@ -95,10 +95,10 @@
           <strong>(Без)Закон</strong>
         </div>
         <div class="roles">
-          <a href="/roles/chief_justice">Он существует?</a>
-          <a href="/roles/prosecutor">Корзина для жалоб</a>
+          <!--<a href="/roles/chief_justice">Он существует?</a>-->
+          <!--<a href="/roles/prosecutor">Корзина для жалоб</a>-->
           <a href="/roles/lawyer">Корзина для жалоб, но хуже</a>
-          <a href="/roles/clerk">Педофил</a>
+          <!--<a href="/roles/clerk">Педофил</a>-->
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(95, 175, 5, 0.2);">
@@ -159,8 +159,8 @@
         <div class="roles" id="ant">
           <a href="/roles/traitor">Подскальзывается</a>
           <a href="/roles/nuclearoperative">Тоже подскальзывается</a>
-          <a href="/roles/corticalBorer">Космическая аскарида</a>
-          <a href="/roles/thief">Конкурент за карту капитана</a>
+          <!--<a href="/roles/corticalBorer">Космическая аскарида</a>-->
+          <!--<a href="/roles/thief">Конкурент за карту капитана</a>-->
           <a href="/roles/cultist">Эмо</a>
           <a href="/roles/revolution">Товарищ</a>
           <a href="/roles/patientzero">Зеленый</a>
@@ -172,7 +172,7 @@
           <a href="/roles/guardian">Лучший Друг</a>
           <a href="/roles/genestealer">Генокрад</a>
           <a href="/roles/terminator">Консервная банка</a>
-          <a href="/roles/wizard">Маг</a>
+          <!--<a href="/roles/wizard">Маг</a>-->
           <a href="/roles/paradox-anomaly">Подражатель</a>
         <a href="/roles/listening_post_operative">Алло?</a>
         </div>

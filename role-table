@@ -108,7 +108,7 @@
           <a href="/roles/chiefmedicalofficer">Главный Врач</a>
           <a href="/roles/quartermaster">Квартирмейстер</a>
            <!--<a href="/roles/chief_justice">Главный судья</a>-->
-          <a href="/roles/maid">Служанка</a>
+          <!--<a href="/roles/maid">Служанка</a>-->
         </div>
       </div>
       <div class="dep-wrapper" style="background:rgb(20, 130, 45, 0.2);">

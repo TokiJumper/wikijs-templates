@@ -152,7 +152,7 @@
         <div class="roles" id="rnd">
           <a href="/roles/researchdirector">Мистагог</a>
           <a href="/roles/mantis">Мантис</a>
-          <a href="/roles/roboticist">Робототехник</a>
+          <!--<a href="/roles/roboticist">Робототехник</a>-->
           <a href="/roles/scientist">Учёный</a>
 		  <a href="/roles/priest">Священник</a>
           <a href="/roles/librarian">Библиотекарь</a>

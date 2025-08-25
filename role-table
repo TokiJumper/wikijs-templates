@@ -152,7 +152,7 @@
         <div class="roles" id="rnd">
           <a href="/roles/researchdirector">Мистагог</a>
           <a href="/roles/mantis">Мантис</a>
-          <a href="/roles/roboticist">Робототехник</a>
+          <!--<a href="/roles/roboticist">Робототехник</a>-->
           <a href="/roles/scientist">Учёный</a>
 		  <a href="/roles/priest">Священник</a>
           <a href="/roles/librarian">Библиотекарь</a>
@@ -265,11 +265,15 @@
           <a href="/roles/spacedragon">Космический дракон</a>
           <a href="/roles/guardian">Хранитель</a>
           <a href="/roles/changeling">Генокрад</a>
-          <a href="/roles/terminator">Терминатор</a>
+          <!--<a href="/roles/terminator">Терминатор</a>-->
           <!--<a href="/roles/wizard">Маг</a>-->
           <a href="/roles/paradox-anomaly">Парадоксальная аномалия</a>
           <a href="/roles/listening_post_operative">Радист Наблюдательного Поста</a>
           <a href="/roles/headcrabs">Хедкрабы</a>
+          <a href="/roles/bingles">Бинглы</a>
+          <a href="/roles/devil">Дьявол</a>
+          <a href="/roles/shadowling">Тенелинг</a>
+          <a href="/roles/blob">Блоб</a>
         </div>
       </div>
     </div>
